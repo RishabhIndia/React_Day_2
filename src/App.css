@@ -1,0 +1,16 @@
+*{
+  margin: 20px 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+  font-size: 3rem;
+  font-weight: 500;
+}
+a{
+  font-size: 1.2rem;
+}
+p{
+  margin-top: 10px;
+  font-size: 1.2rem;
+  line-height: 1.8;
+}
